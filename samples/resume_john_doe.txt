@@ -1,0 +1,38 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: (555) 123-4567
+Location: Buffalo, NY
+
+PROFESSIONAL SUMMARY
+Full-stack software engineer with 5+ years of experience building web applications using React, Node.js, and PostgreSQL. Strong backend architecture skills with hands-on experience in REST APIs and microservices. Bachelor of Science in Computer Science from SUNY Buffalo.
+
+SKILLS
+- React, JavaScript, TypeScript
+- Node.js, Express
+- PostgreSQL, MongoDB
+- REST APIs, GraphQL
+- Git, Docker, Linux
+- Python (basic)
+
+EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | 2020 - Present
+- Led development of customer-facing React applications
+- Designed and implemented REST APIs using Node.js and Express
+- Managed PostgreSQL databases and optimized queries
+- Mentored junior developers
+- 3+ years in this role
+
+Software Engineer | WebDev Solutions | 2018 - 2020
+- Built full-stack features using React and Node.js
+- Integrated third-party APIs
+- Collaborated with product team on requirements
+
+EDUCATION
+Bachelor of Science in Computer Science
+SUNY Buffalo (State University of New York)
+Graduated: 2018
+
+PROJECTS
+- E-commerce platform with React frontend and Node.js backend
+- Real-time chat application using WebSockets
+- Internal dashboard for analytics visualization

@@ -1,0 +1,24 @@
+# FastAPI and server (flexible versions for Python 3.14 compatibility)
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+
+# PDF parsing
+pdfplumber>=0.10.0
+
+# Embeddings and Vector Store (FAISS for Python 3.14 compatibility)
+faiss-cpu>=1.10.0
+sentence-transformers>=2.2.0
+numpy>=1.22.0
+
+# LLM integrations (configurable)
+openai>=1.12.0
+
+anthropic>=0.18.0
+
+# Google Gemini (google-genai SDK)
+google-genai>=1.0.0
+
+# Utilities (use pydantic with prebuilt wheels)
+pydantic>=2.7.0
+pydantic-settings>=2.1.0

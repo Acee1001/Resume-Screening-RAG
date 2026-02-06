@@ -1,0 +1,37 @@
+JANE SMITH
+Email: jane.smith@email.com | Phone: (555) 987-6543
+Location: San Francisco, CA
+
+OBJECTIVE
+Experienced backend engineer seeking a role focused on API development and system design. 4 years of Python and Node.js experience. MS in Computer Science from UC Berkeley.
+
+SKILLS
+- Python, Flask, FastAPI
+- Node.js, Express
+- PostgreSQL, Redis
+- AWS (EC2, S3, Lambda)
+- Docker, CI/CD
+- REST APIs, microservices
+
+EXPERIENCE
+
+Backend Engineer | CloudScale | 2021 - Present
+- Built REST APIs using Python FastAPI
+- Deployed services on AWS
+- Implemented caching with Redis
+- 2+ years experience
+
+Software Developer | DataFlow Inc | 2019 - 2021
+- Developed Node.js services
+- Worked with PostgreSQL
+- Participated in agile ceremonies
+
+EDUCATION
+Master of Science in Computer Science
+UC Berkeley | Graduated 2019
+
+Bachelor of Science in Computer Science
+State University of California | 2017
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate

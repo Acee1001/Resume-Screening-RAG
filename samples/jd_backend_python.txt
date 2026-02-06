@@ -1,0 +1,28 @@
+Backend Python Engineer
+
+Join our team as a Backend Engineer focused on Python development.
+
+REQUIREMENTS
+
+Technical Skills:
+- Python (3+ years)
+- FastAPI or Flask
+- PostgreSQL
+- Redis
+- REST API design
+- Docker
+- AWS or similar cloud
+
+Experience:
+- 4+ years backend development
+- Experience with microservices architecture
+- Database optimization and query tuning
+
+Education:
+- Bachelor's or Master's in Computer Science or related field
+- State university degree preferred
+
+BONUS
+- Kubernetes
+- GraphQL
+- Terraform
